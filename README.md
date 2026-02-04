@@ -1,26 +1,38 @@
-# Data_Science
+# Data Science
 
-A learning repository containing Python fundamentals and data-structures practice in Jupyter Notebooks.
+This repository contains Python programs and Jupyter notebooks created while learning
+Data Science and Python programming.
 
-## What’s inside
+## Purpose
+- Learn Python basics
+- Practice Data Science concepts
+- Improve coding and problem-solving skills
+- Track learning progress
 
-- `basic of python/` — Python basics
-- `data_structure/` — tuples, lists, sets, dictionaries practice notebooks
-- `loop_and_condition/` — for/while loops and conditional practice notebooks
-- `function_expectionaglhandlin/` — functions and exception handling notebooks
-- `oop_concept/` — OOP concepts (class/object, inheritance, polymorphism, abstraction, etc.)
+## Topics Covered
+- Python Basics
+- Loops and Conditions
+- Functions and Exception Handling
+- Data Structures
+- Object-Oriented Programming (OOP)
+- Data Analytics (EDA)
 
-## How to run
+## Folder Structure
+- `basic of python/`
+- `loop_and_condition/`
+- `function_expectionaglhandlin/`
+- `data_structure/`
+- `oop_concept/`
+- `data_analytics/`
 
-1. Install Python (recommended: 3.10+)
-2. Install Jupyter:
-   - `pip install notebook`
-3. Launch from the repo root:
-   - `jupyter notebook`
+## Tools Used
+- Python
+- Jupyter Notebook
+- VS Code
+- GitHub
 
-Then open any `.ipynb` file and run cells.
+## Status
+Learning in progress.
 
-## Notes
-
-- This repo is organized as practice notebooks. File names may reflect the topic and lesson order.
-- If you see `Untitled-*.ipynb`, it’s usually a scratch/practice notebook.
+## Note
+This repository is for learning and educational purposes only.
