@@ -1,0 +1,12 @@
+2026-02-18 14:47:30,387 - module2 - INFO - This is an info message from module2
+2026-02-18 14:47:30,387 - module2 - WARNING - This is a warning message from module2
+2026-02-18 14:47:30,387 - module2 - ERROR - This is an error message from module2
+2026-02-18 14:47:30,388 - module2 - CRITICAL - This is a critical message from module2
+2026-02-18 14:47:46,020 - module2 - INFO - This is an info message from module2
+2026-02-18 14:47:46,020 - module2 - INFO - This is an info message from module2
+2026-02-18 14:47:46,020 - module2 - WARNING - This is a warning message from module2
+2026-02-18 14:47:46,020 - module2 - WARNING - This is a warning message from module2
+2026-02-18 14:47:46,021 - module2 - ERROR - This is an error message from module2
+2026-02-18 14:47:46,021 - module2 - ERROR - This is an error message from module2
+2026-02-18 14:47:46,021 - module2 - CRITICAL - This is a critical message from module2
+2026-02-18 14:47:46,021 - module2 - CRITICAL - This is a critical message from module2

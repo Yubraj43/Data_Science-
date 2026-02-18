@@ -1,0 +1,15 @@
+2026-02-18 14:47:30,386 - module1 - DEBUG - This is a debug message from module1
+2026-02-18 14:47:30,386 - module1 - INFO - This is an info message from module1
+2026-02-18 14:47:30,387 - module1 - WARNING - This is a warning message from module1
+2026-02-18 14:47:30,387 - module1 - ERROR - This is an error message from module1
+2026-02-18 14:47:30,387 - module1 - CRITICAL - This is a critical message from module1
+2026-02-18 14:47:46,018 - module1 - DEBUG - This is a debug message from module1
+2026-02-18 14:47:46,018 - module1 - DEBUG - This is a debug message from module1
+2026-02-18 14:47:46,019 - module1 - INFO - This is an info message from module1
+2026-02-18 14:47:46,019 - module1 - INFO - This is an info message from module1
+2026-02-18 14:47:46,019 - module1 - WARNING - This is a warning message from module1
+2026-02-18 14:47:46,019 - module1 - WARNING - This is a warning message from module1
+2026-02-18 14:47:46,020 - module1 - ERROR - This is an error message from module1
+2026-02-18 14:47:46,020 - module1 - ERROR - This is an error message from module1
+2026-02-18 14:47:46,020 - module1 - CRITICAL - This is a critical message from module1
+2026-02-18 14:47:46,020 - module1 - CRITICAL - This is a critical message from module1
