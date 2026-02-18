@@ -18,6 +18,7 @@ Data Science and Python programming.
 -  Advance python
 -  Data Analytics (EDA)
 -  Sqlite3
+-  python logger
  
   
 
@@ -31,6 +32,7 @@ Data Science and Python programming.
 -   Advance python
 -  Data Analytics (EDA)
 -  Sqlite3
+-  python logger
 
 ## Tools Used
 - Python
