@@ -28,6 +28,9 @@ Data Science and Python programming.
 - `data_structure/`
 - `oop_concept/`
 - `data_analytics/`
+-   Advance python
+-  Data Analytics (EDA)
+-  Sqlite3
 
 ## Tools Used
 - Python
