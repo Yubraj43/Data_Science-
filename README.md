@@ -12,10 +12,14 @@ Data Science and Python programming.
 ## Topics Covered
 - Python Basics
 - Loops and Conditions
+-  Data Structures
 - Functions and Exception Handling
-- Data Structures
-- Object-Oriented Programming (OOP)
-- Data Analytics (EDA)
+-  Object-Oriented Programming (OOP)
+-  Advance python
+-  Data Analytics (EDA)
+-  Sqlite3
+ 
+  
 
 ## Folder Structure
 - `basic of python/`
