@@ -19,6 +19,7 @@ Data Science and Python programming.
 -  Data Analytics (EDA)
 -  Sqlite3
 -  python logger
+-  Thread_process
  
   
 
@@ -33,6 +34,7 @@ Data Science and Python programming.
 -  Data Analytics (EDA)
 -  Sqlite3
 -  python logger
+-  Thread_process
 
 ## Tools Used
 - Python
