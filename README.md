@@ -19,7 +19,8 @@ Data Science and Python programming.
 -  Data Analytics (EDA)
 -  Sqlite3
 -  python logger
--  Thread_process
+-  Thread_processa
+-  memory_management
  
   
 
@@ -30,11 +31,13 @@ Data Science and Python programming.
 - `data_structure/`
 - `oop_concept/`
 - `data_analytics/`
--   Advance python
--  Data Analytics (EDA)
--  Sqlite3
--  python logger
--  Thread_process
+-   Advance python/
+-  Data Analytics (EDA)/
+-  Sqlite3/
+-  python logger/
+-  Thread_process/
+-  memory_management/
+  
 
 ## Tools Used
 - Python
