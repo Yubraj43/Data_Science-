@@ -1,4 +1,5 @@
 #how do single thread work?
+import numbers
 import time 
 import os
 import threading
@@ -14,7 +15,7 @@ def cube_numbers(numbers):
         print(f"the cube of {i} is {i*i*i}", flush = True)
 
 if __name__ == "__main__":
-    numbers = [1, 2, 3, 4, 5]
+   ''' numbers = [1, 2, 3, 4, 5]
     t1 = threading.Thread(target=square_numbers, args=(numbers,))
     t2 = threading.Thread(target=cube_numbers, args=(numbers,))
     t = time.time()
@@ -24,6 +25,22 @@ if __name__ == "__main__":
     
     # Then run t2
     t2.start()
+    t2.join()
+    
+    finished=time.time()-t
+    print(f"finished in {finished} seconds", flush=True)'''
+
+
+    #to do mutiple thread at same time we need to remove the join of t1 and t2 and just start both thread and then join them at the end
+    t1 = threading.Thread(target=square_numbers, args=(numbers,))
+    t2 = threading.Thread(target=cube_numbers, args=(numbers,))
+    t = time.time()
+    # Start both threads
+    t1.start()
+    t2.start()
+    
+    # Wait for both threads to complete
+    t1.join()
     t2.join()
     
     finished=time.time()-t
