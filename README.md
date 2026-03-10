@@ -21,6 +21,7 @@ Data Science and Python programming.
 -  python logger
 -  Thread_processa
 -  memory_management
+-  Flask
  
   
 
@@ -37,6 +38,7 @@ Data Science and Python programming.
 -  python logger/
 -  Thread_process/
 -  memory_management/
+-  flask
   
 
 ## Tools Used
