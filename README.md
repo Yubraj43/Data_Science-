@@ -22,6 +22,8 @@ Data Science and Python programming.
 -  Thread_processa
 -  memory_management
 -  Flask
+-   Math(https://www.geeksforgeeks.org/data-science/maths-for-data-science/)
+-  
  
   
 
@@ -39,6 +41,7 @@ Data Science and Python programming.
 -  Thread_process/
 -  memory_management/
 -  flask
+- 
   
 
 ## Tools Used
