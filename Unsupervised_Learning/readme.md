@@ -6,3 +6,11 @@ The model will group them based on:
 Size
 Color
 Shape
+
+## Modules
+
+- DBSCAN
+- KMeans Clustering
+- Hierarchical Clustering
+- PCA
+- Anomaly Detection
