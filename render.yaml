@@ -4,6 +4,6 @@ services:
     env: python
     rootDir: ML_Project
     plan: free
-    buildCommand: pip install -r requirements.txt
+    buildCommand: pip install -r requirements-render.txt
     startCommand: gunicorn --bind 0.0.0.0:$PORT application:application
     autoDeploy: true
