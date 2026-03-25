@@ -8,3 +8,4 @@ Flask
 matplotlib
 xgboost
 catboost
+gunicorn
